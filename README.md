@@ -11,4 +11,4 @@ Although I delivered the workshop in Greek, I have now translated all the materi
 
 I consider p5 as an excellent tool to get more kids into programming and the workshops that I delivered were a great success.
 
-Enjoy and hope you find this useful! 
+Enjoy and I hope you find this useful! 
