@@ -1,6 +1,6 @@
 # p5js_workshop
 “Learning to code by drawing”
-Workshop durations: 3,5 hours including a 30-minute break.
+Workshop duration: 3,5 hours including a 30-minute break
 
 I was assigned by UTech Lab to deliver a workshop on creative coding to students ages 10-18 as an introductory course to programming. I used p5.js to design a simple but challenging, in terms of algorithmic thinking, “sketch” and created step-by-step educational hand-outs.
 
